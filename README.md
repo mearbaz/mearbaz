@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/arbazansary4" target="blank"><img src="https://img.shields.io/twitter/follow/arbazansary4?logo=twitter&style=for-the-badge" alt="arbazansary4" /></a> </p>
 
-- 🌱 I’m currently learning **NLP,AI**
+- 🌱 I’m currently learning **Gen AI**
 
 - 👨‍💻 All of my projects are available at [WAITING](WAITING)
 
